@@ -1,5 +1,5 @@
 
- **CRUD Project in C**
+ **CRUD Project in CSharp**
 
  **Project Overview**
 This is a simple project demonstrating the use of CRUD (Create, Read, Update, Delete) operations. The application allows users to manage student records, including their names, IDs, and ages. It is built using C and Windows Forms in Visual Studio.
@@ -17,7 +17,7 @@ This is a simple project demonstrating the use of CRUD (Create, Read, Update, De
  **How to Use**
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/CRUD-project-in-C-
+   git clone https://github.com/yourusername/CRUD-project-in-CSharp-
    ```
 
 2. Open the Project in Visual Studio:
